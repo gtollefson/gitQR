@@ -7,19 +7,19 @@
 
 const config = {
   // Your full name
-  name: "Weston Stewart-Tennes",
+  name: "George",
   
   // Your professional title
-  title: "CTO",
+  title: "PhD ",
   
   // Your email address
-  email: "wstewarttennes@gmail.com",
+  email: "george_tollefson@brown.edu",
   
   // Your phone number (optional - leave empty to hide)
-  phone: "+1 (510) 219 4402",
+  phone: "+1 (401) 296 4606",
   
   // Your GitHub username (without the @ symbol)
-  githubUsername: "wstewarttennes"
+  githubUsername: "gtollefson"
 };
 
 // ================================================================
